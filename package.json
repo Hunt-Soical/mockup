@@ -1,0 +1,24 @@
+{
+  "name": "mockup",
+  "version": "1.0.0",
+  "description": "Mockup for pro",
+  "main": "index.js",
+  "scripts": {
+    "run": "gatsby develop",
+    "build":"gatsby build",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunt-Soical/mockup.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "oph",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Hunt-Soical/mockup/issues"
+  },
+  "homepage": "https://github.com/Hunt-Soical/mockup#readme"
+}
