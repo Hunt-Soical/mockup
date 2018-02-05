@@ -10,10 +10,13 @@
     "test": ""
   },
   "dependencies": {
+    "babel-eslint": "^8.2.1",
     "eslint": "^4.16.0",
     "gatsby": "^1.9.158",
     "gatsby-link": "^1.6.34",
     "gatsby-plugin-typography": "^1.7.13",
+    "material-ui": "^0.20.0",
+    "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "typography": "^0.16.6",
     "typography-theme-fairy-gates": "^0.15.11"

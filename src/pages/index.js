@@ -8,7 +8,7 @@ const style = {
 };
 
 function login() {
-  navigateTo('/selectCampaign');
+  navigateTo('/main');
 }
 
 const loginButton = () => (
